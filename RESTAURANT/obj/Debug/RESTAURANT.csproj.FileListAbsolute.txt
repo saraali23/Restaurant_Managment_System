@@ -1,0 +1,167 @@
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csprojAssemblyReference.cache
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Form1.resources
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Properties.Resources.resources
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.USER_FORM.resources
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.GenerateResource.cache
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CoreCompileInputs.cache
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe.config
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.pdb
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\Oracle.DataAccess.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CopyComplete
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.exe
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.pdb
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.EDIT_Customer_Info.resources
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Admin.resources
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\stdole.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\noura\source\repos\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.reports.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe.config
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.pdb
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\ShockwaveFlashObjects.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\stdole.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csprojAssemblyReference.cache
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Admin.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.EDIT_Customer_Info.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Form1.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Properties.Resources.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.reports.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.USER_FORM.resources
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.GenerateResource.cache
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CoreCompileInputs.cache
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CopyComplete
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.exe
+E:\salma3rd\database\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.pdb
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe.config
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.pdb
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\Oracle.DataAccess.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\stdole.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csprojAssemblyReference.cache
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Admin.resources
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.EDIT_Customer_Info.resources
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Form1.resources
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Properties.Resources.resources
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.USER_FORM.resources
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.GenerateResource.cache
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CoreCompileInputs.cache
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CopyComplete
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.exe
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.pdb
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.reports2.resources
+C:\Users\noura\Desktop\RESTAURANT-2\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Role_Rep.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe.config
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.pdb
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\Oracle.DataAccess.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\stdole.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csprojAssemblyReference.cache
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Admin.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.EDIT_Customer_Info.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Form1.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Properties.Resources.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.reports2.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Role_Rep.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.USER_FORM.resources
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.GenerateResource.cache
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CoreCompileInputs.cache
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CopyComplete
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.exe
+C:\Users\noura\Desktop\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.pdb
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe.config
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.exe
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\RESTAURANT.pdb
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\stdole.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.AssemblyReference.cache
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Admin.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.EDIT_Customer_Info.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Form1.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Properties.Resources.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.reports2.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.Role_Rep.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.USER_FORM.resources
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.GenerateResource.cache
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CoreCompileInputs.cache
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.csproj.CopyComplete
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.exe
+D:\Projects\Restraunt management system 3rd year DB\DB_project\RESTAURANT-Final\RESTAURANT\RESTAURANT\obj\Debug\RESTAURANT.pdb
