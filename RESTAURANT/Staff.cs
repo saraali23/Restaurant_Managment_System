@@ -10,18 +10,18 @@ using System.Windows.Forms;
 
 namespace RESTAURANT
 {
-    public partial class Admin : Form
+    public partial class Staff : Form
     {
-        AdminClass admin;
-        public Admin(AdminClass ad)
+        StaffClass staf;
+        public Staff(StaffClass s)
         {
-            admin = ad;
+            staf = s;
             InitializeComponent();
         }
 
-        private void managemeals_btn_Click(object sender, EventArgs e)
+        private void check_btn_Click(object sender, EventArgs e)
         {
-            using (var t = new ManageMeals(admin))
+            using (var t = new OrderType(staf))
             {
                 t.StartPosition = FormStartPosition.Manual;
                 t.Location = this.Location;
@@ -31,9 +31,9 @@ namespace RESTAURANT
             this.Show();
         }
 
-        private void managestaff_btn_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            using (var t = new ManageStaff(admin))
+            using (var t = new ViewOrderBy(staf))
             {
                 t.StartPosition = FormStartPosition.Manual;
                 t.Location = this.Location;
@@ -41,6 +41,7 @@ namespace RESTAURANT
                 t.ShowDialog();
             }
             this.Show();
+
         }
 
         private void back_btn_Click(object sender, EventArgs e)
